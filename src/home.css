@@ -1,0 +1,24 @@
+.wellcome{
+    background-image: url(https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
+    background-repeat: no-repeat;
+    background-size: cover;
+    system: additive;
+    height: 500px;
+    max-height: auto;
+}
+.text{
+    color:white;
+    margin: auto;
+    font-size: 200px;
+    font-weight: 400;
+    font-style: italic;
+}
+.btn{
+    background-color: darkblue;
+    width: 150px;
+    height: 50px;
+    color: white;
+    border-radius: 10px;
+    font-size: 15px;
+    
+}

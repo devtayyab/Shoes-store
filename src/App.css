@@ -1,0 +1,34 @@
+body{
+margin: 0px 20px;
+text-align: center;
+}
+.navitem{
+  color: white;
+  justify-items: space-around;
+  display: inline-flex;
+  padding-right: 50px;
+}
+.img{
+  width: 500px;
+  height: 400px;
+}
+.nav{
+  justify-items: space-around;
+  background-color: darkblue;
+  height: 50px;
+  text-align: center;
+  
+}
+.image{
+  width: 400px;
+  height: 400px;
+  
+}
+.pitems{
+  max-width: 100%;
+  display: inline-flexbox;
+  
+}
+.key{
+  display: inline-flexbox;
+}
